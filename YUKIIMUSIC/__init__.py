@@ -19,6 +19,7 @@
 # Contact for permissions:
 # Email: sudeepgithub@gmail.com
 
+import YUKIIMUSIC.yuki_guard
 from YUKIIMUSIC.core.bot import YUKII
 from YUKIIMUSIC.core.dir import dirr
 from YUKIIMUSIC.core.git import git
