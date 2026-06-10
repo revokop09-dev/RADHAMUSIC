@@ -64,4 +64,5 @@ groq
 youtube-search
 youtube-search-python
 git+https://github.com/yt-dlp/yt-dlp
-pytgcalls==2.1.1
+pytgcalls==2.0.0
+
