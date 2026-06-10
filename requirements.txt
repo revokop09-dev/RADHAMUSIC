@@ -63,5 +63,6 @@ holidays
 groq
 youtube-search
 youtube-search-python
-yt-dlp==2025.10.27
+yt-dlp==2025.11.12
 pytgcalls
+
