@@ -1,5 +1,5 @@
 # 1. Base image ko update kiya (Node 20 use karne se naya Debian milega aur apt-get fail nahi hoga)
-FROM docker.io/nikolaik/python-nodejs:python3.10-nodejs20
+FROM docker.io/nikolaik/python-nodejs:python3.9-nodejs20
 
 # 2. System dependencies install karna
 # Naye base image mein purani lists remove karne ki zaroorat nahi padegi
