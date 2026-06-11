@@ -18,6 +18,7 @@ emojis
 ffmpeg-python
 Faker
 future==1.0.0
+git+https://github.com/AsmSafone/SafoneAPI
 gitpython
 gpytranslate
 gtts
@@ -28,6 +29,7 @@ img2pdf
 instaloader
 lexica-api
 motor 
+#MukeshAPI
 numpy
 openai==0.28.0
 opencv-python
@@ -47,6 +49,7 @@ pyshorteners
 pyttsx3
 pytz
 pytube
+py-tgcalls==0.9.7
 pyyaml==6.0.1
 qrcode
 requests
@@ -60,9 +63,9 @@ tgcrypto==1.2.5
 unidecode
 wget
 holidays
+apscheduler
 groq
 youtube-search
 youtube-search-python
-yt-dlp==2025.11.12
-pytgcalls
-
+git+https://github.com/KurimuzonAkuma/pyrogram
+git+https://github.com/yt-dlp/yt-dlp
